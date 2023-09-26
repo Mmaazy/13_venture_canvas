@@ -1,0 +1,32 @@
+.heading {
+    border-top: 1px solid rgba(103, 58, 183, 0.2);
+    border-right: 0;
+    border-left: 0;
+    border-bottom: 0;
+    border-radius: 0.25rem;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  .beer{
+    font-size: 2em;
+  }
+
+.custom-dropdown{
+  width: 200px !important;
+}
+
+.DropdownButton{
+  width: 200px !important;
+}
+
+button#dropdown-item-button.dropdown-toggle.btn.btn-light{
+  width: 100%;
+}
+
+div.dropdown-menu.show{
+  width: 100%;
+}
+
